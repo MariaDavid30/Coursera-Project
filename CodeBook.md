@@ -23,11 +23,17 @@ The dataset includes the following files:
 In run_analysis.R ,the final dataset is obtained by
 
 1.Downloading the data.
+
 2.Reading all the files of the dataset into R.
+
 3.Merging the datasets to obtain a single dataset.
+
 4.choosing only  the measurements on the mean and standard deviation.
+
 5.Using descriptive activity names to name the activities in the data set.
+
 6.Giving appropriate variable names to the data from the feature data file.
+
 7.Thereby creating a table of this tidy dataset.
 
 Refer the run_analysis.R to understand the Variables used to create the final tidy dataset.
